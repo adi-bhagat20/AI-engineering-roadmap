@@ -4,7 +4,7 @@
 **Where exactly:**
 
 - [Python Official Tutorial — Sections 6, 8, 9](https://docs.python.org/3/tutorial/classes.html) (classes)
-- Corey Schafer — "Python OOP Tutorials" playlist, videos 1-4 (free)
+- Object Oriented Programming in Python by not your college (https://www.youtube.com/watch?v=IhG3UJzkjnw&t=380s)
 - [Real Python — "Python Exceptions: An Introduction"](https://realpython.com/python-exceptions/) (free)
 
 **Assignment 0.2 — "Personal Expense Tracker (CLI, in-memory)"**
