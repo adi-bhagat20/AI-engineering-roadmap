@@ -1,9 +1,10 @@
 '''
     store the document into this string
 '''
-
+import sys
 text = "" 
-with open("text.txt", "r") as file:
+input_filename = sys.argv[1]
+with open(input_filename, "r") as file:
     content = file.read()
     text += content
     # print(content)
